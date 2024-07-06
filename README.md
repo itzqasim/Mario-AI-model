@@ -1,6 +1,6 @@
-                                                                                                  Mario AI Model 
-                                                                                                      with
-                                                                                           Proximal Policy Optimization
+                     Mario AI Model 
+                         with
+              Proximal Policy Optimization
 
                                                                                            
 The project is developing and training an AI model using the Proximal Policy Optimization (PPO) algorithm to master the iconic video game, 
